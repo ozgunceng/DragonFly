@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6e76704b7d19c546827eb13daf57bc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puanText: {instanceID: 0}
+  - carpmaSesi: {fileID: 8300000, guid: 63f79e88facfba54280057e6b51c64a1, type: 3}
+  - puanSesi: {fileID: 8300000, guid: b2a1006fc3d626145bebddac49f7f435, type: 3}
+  - kanatCirpmaSesi: {fileID: 8300000, guid: cf6103a0209caed4cae343920f6bf4b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
